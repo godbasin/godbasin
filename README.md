@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 👨‍🚒 About me
 
-- 🔭 I’m currently working on null.
+- 🔭 I’m currently working on something interesting.
 - 💬 Have you read my [Vue book](http://www.godbasin.com/vue-ebook/)?
 - 📫 Welcome to [my front end playground](https://godbasin.github.io/front-end-playground/).
 - ⚡ Fun fact: I have a cute cat.
@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 ### 🔥 Project
 
 - 🔰 [`被删前端博客`](https://github.com/godbasin/godbasin.github.io) My Blog.
-- 🌱 [`小程序最佳实践`](https://github.com/godbasin/wxapp-typescript-demo) Miniprogram typescript demp.
+- 🌱 [`小程序最佳实践`](https://github.com/godbasin/wxapp-typescript-demo) Miniprogram typescript demo.
 - 📃 [`vue select2 component`](https://github.com/godbasin/vue-select2) [`box2djs-tutorial`](https://github.com/godbasin/box2djs-tutorial) [`《深入理解Vue.js实战》`](https://github.com/godbasin/vue-ebook)  ...
