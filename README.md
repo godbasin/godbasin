@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### 👨‍🚒 关于我
 
 - ⚡ 我有一只特别可爱的猫猫叫“牧羊猪”~
-- 🤔 我还有个记录生活的公众号（id：牧羊的猪），不过不怎么写技术哦~
+- 🤔 我的日常公众号是“牧羊的猪”~
 - 💬 我写了一本 [Vue 的开源书](https://godbasin.github.io/vue-ebook/)~
 - 📫 欢迎来[我的前端游乐场](https://godbasin.github.io/front-end-playground/)一起玩~
 - 😄 最近刚开始学着做视频分享啦！欢迎来 B 站围观哦（id: 被删）~
